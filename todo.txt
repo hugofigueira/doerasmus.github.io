@@ -1,0 +1,2 @@
+ - criar variáveis de cor em scss.
+ - cada faculdade terá então a sua cor na navbar e dos links.
